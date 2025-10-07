@@ -1,0 +1,18 @@
+[color=orange]█         █ █▀█ █▀
+█▄█▄█ █▄█ ▄█[/color]
+[bold]Wind of Sylphoria, Adventurers' Guild[/bold]
+[color=orange][head=3]Mithril MINING EXPEDITION[/head][/color]
+Quest provider: Wind of Sylphoria
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+➤[bold]Requirements:[/bold]
+[bullet]30+ mithril ore.
+─────────────────────────────────────────
+➤[bold]Informations:[/bold]
+[bullet]The ore can be found within the demiplanes, check the [bold]demiplane link crystal[/bold] to know which demiplane contain traces of the ore.
+[bullet]The best tool to use for mining is a pickaxe.
+─────────────────────────────────────────
+➤[bold]Rewards:[/bold] 
+[bullet]Base payment of 1.5 gold for 30 mitril ore.
+[bullet]Additional payment of 5 silver per every 10 mitril ore byond quota.
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+[bold]To accept this quest, tear this notice from the guild board and bring it to the counter. Present this slip to a guild worker for signature before departure. Upon completion, return the signed slip to have it stamped [Approved] and receive your reward. [/bold]

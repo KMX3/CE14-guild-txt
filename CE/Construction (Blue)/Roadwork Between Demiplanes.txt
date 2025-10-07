@@ -1,0 +1,19 @@
+[color=blue]█         █ █▀█ █▀
+█▄█▄█ █▄█ ▄█[/color]
+[bold]Wind of Sylphoria, Adventurers' Guild[/bold]
+[color=blue][head=3]ROADWORK BETWEEN DEMIPLANES[/head][/color]
+Quest provider: Wind of Sylphoria
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+➤[bold]Requirements:[/bold]
+[bullet]Build roads between demiplanes rifts.
+─────────────────────────────────────────
+➤[bold]Informations:[/bold] 
+[bullet]For ease of demiplane navigation it is required to build roads between demiplane arc inside demiplanes.
+[bullet]This quest will be completed if taker build at least illuminated dirt road between demiplane arc at designated demiplanes.
+[bullet]Paving and decorating could be additionaly rewarded.
+You are provided with instruments and materials by guild (if guild couldn't provide materials, you will be compensated).
+─────────────────────────────────────────
+➤[bold]Rewards:[/bold] 
+[bullet] 5 silver coin per rifts.
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+[bold]To accept this quest, tear this notice from the guild board and bring it to the counter. Present this slip to a guild worker for signature before departure. Upon completion, return the signed slip to have it stamped [Approved] and receive your reward. Your work will be inspected by a guild clerk upon completion.[/bold]

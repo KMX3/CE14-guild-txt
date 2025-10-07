@@ -1,0 +1,17 @@
+[color=red]█         █ █▀█ █▀
+█▄█▄█ █▄█ ▄█[/color]
+[bold]Wind of Sylphoria, Adventurers' Guild[/bold]
+[color=red][head=3]FRESH MEAT PROCUREMENT[/head][/color]
+Quest provider: Wind of Sylphoria
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+➤[bold]Requirements:[/bold]
+[bullet]Any raw wild animal meat.
+─────────────────────────────────────────
+➤[bold]Informations:[/bold]
+[bullet]The guild forbids the hunting of domesticated livestock for this request.
+[bullet]Seek wild animals beyond the town or within nearby demiplanes.
+─────────────────────────────────────────
+➤[bold]Rewards:[/bold] 
+[bullet]Final reward shall be assessed by a guild clerk upon evaluation of the gathered goods.
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+[bold]Do not take this paper from the board. Gather the requested materials and bring them to the guild for evaluation and payment. [/bold]
