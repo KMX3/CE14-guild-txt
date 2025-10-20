@@ -1,19 +1,20 @@
 [color=red]█         █ █▀█ █▀
 █▄█▄█ █▄█ ▄█[/color]
 [bold]Wind of Sylphoria, Adventurers' Guild[/bold]
-[color=red][head=3]UNDEAD SUBJUGATION[/head][/color]
+[color=red][head=3]HYDRA SUBJUGATION[/head][/color]
 Quest provider: Wind of Sylphoria
 ◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
 ➤[bold]Requirements:[/bold]
-[bullet]An undead carcass
+[bullet]3 Hydra carcasses.
 ─────────────────────────────────────────
 ➤[bold]Informations:[/bold]
-[bullet]Scattered zombies spotted in early Demiplanes.
-[bullet]Easy in small numbers dangerous in hordes.
-[bullet]High regeneration so make sure to confirm your kills
+[bullet]A long brown reptile
+[bullet]Watch out for bushes as they tend to hide there.
+[bullet]Better to fight it at range
+[bullet]You can investigate information about it's habitat with help of demiplane crystal
 [bullet]It is recommended to buy return to city scroll to immediately get back to guild house with carcass.
 ─────────────────────────────────────────
 ➤[bold]Rewards:[/bold] 
-[bullet]1 silver upon delivering the carcass to the guild
+[bullet]1 gold upon delivering the carcasses to the guild
 ◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
-[bold]This quest is ever in effect and shall not expire. Leave this notice upon the board for all to see.[/bold]
+[bold]To accept this quest, tear this notice from the guild board and bring it to the counter. Present this slip to a guild worker for signature before departure. Upon completion, return the signed slip to have it stamped [Approved] and receive your reward. [/bold]
