@@ -1,0 +1,20 @@
+[color=red]█         █ █▀█ █▀
+█▄█▄█ █▄█ ▄█[/color]
+[bold]Wind of Sylphoria, Adventurers' Guild[/bold]
+[color=red][head=3]YUMKARAPTOR SUBJUGATION[/head][/color]
+Quest provider: Wind of Sylphoria
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+➤[bold]Requirements:[/bold]
+[bullet]A Yumkaraptor carcass.
+─────────────────────────────────────────
+➤[bold]Informations:[/bold]
+[bullet]A large green reptile.
+[bullet]Extremely fast and hostile.
+[bullet]Better to fight than to run away from a Yumkaraptor.
+[bullet]You can investigate information about it's habitat with help of demiplane crystal.
+[bullet]It is recommended to buy return to city scroll to immediately get back to guild house with carcass.
+─────────────────────────────────────────
+➤[bold]Rewards:[/bold] 
+[bullet]1 gold upon delivering the carcass to the guild.
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+[bold]To accept this quest, tear this notice from the guild board and bring it to the counter. Present this slip to a guild worker for signature before departure. Upon completion, return the signed slip to have it stamped [Approved] and receive your reward. [/bold]

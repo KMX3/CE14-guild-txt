@@ -1,0 +1,19 @@
+[color=orange]█         █ █▀█ █▀
+█▄█▄█ █▄█ ▄█[/color]
+[bold]Wind of Sylphoria, Adventurers' Guild[/bold]
+[color=orange][head=3]YELLOW DAYFLIN FORAGING[/head][/color]
+Quest provider: Wind of Sylphoria
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+➤[bold]Requirements:[/bold]
+[bullet]10+ yellow dayflin.
+─────────────────────────────────────────
+➤[bold]Informations:[/bold]
+[bullet]This plant can be found within the demiplanes, check the [bold]demiplane link crystal[/bold] to know which demiplane the plant grows in.
+[bullet]This plant has a distinct yellow color.
+[bullet]Use a sharp tool to harvest.
+─────────────────────────────────────────
+➤[bold]Rewards:[/bold] 
+[bullet]Base payment of 1.7 silver for 10 yellow dayflin.
+[bullet]Additional payment of 1 copper per every 1 yellow dayflin byond quota.
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+[bold]To accept this quest, tear this notice from the guild board and bring it to the counter. Present this slip to a guild worker for signature before departure. Upon completion, return the signed slip to have it stamped [Approved] and receive your reward. [/bold]
