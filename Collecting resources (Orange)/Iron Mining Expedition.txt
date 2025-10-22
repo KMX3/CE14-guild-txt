@@ -12,7 +12,7 @@ Quest provider: Wind of Sylphoria
 [bullet] The best tool to use for mining is a pickaxe.
 ─────────────────────────────────────────
 ➤[bold]Rewards:[/bold] 
-[bullet]Base payment of 9 silver for 30 iron ore.
-[bullet]Additional payment of 2 silver per every 10 iron ore byond quota.
+[bullet]Base payment of 1.2 gold for 30 iron ore.
+[bullet]Additional payment of 3 silver per every 10 iron ore byond quota.
 ◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
 [bold]To accept this quest, tear this notice from the guild board and bring it to the counter. Present this slip to a guild worker for signature before departure. Upon completion, return the signed slip to have it stamped [Approved] and receive your reward. [/bold]
