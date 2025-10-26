@@ -1,0 +1,28 @@
+[color=green]█         █ █▀█ █▀
+█▄█▄█ █▄█ ▄█[/color]
+[bold]Wind of Sylphoria, Adventurers’ Guild[/bold]
+[color=green][head=3]RESURRECTION REIMBURSEMENT FORM[/head][/color]
+[bold]OFFICIAL GUILD DOCUMENT[/bold]
+◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆──◆
+[bold]Adventurer’s Information:[/bold]  
+Name: 
+Race:
+Sex:
+Age:
+─────────────────────────────────────────  
+➤[bold]Resurrection Details:[/bold]  
+Total Resurrection Cost:___[color=silver]Silver[/color] ___[color=chocolate]copper[/color]  
+Amount Covered by Guild (50%):___[color=silver]Silver[/color] ___[color=chocolate]copper[/color]  
+Amount to be Reimbursed (50%):___[color=silver]Silver[/color] ___[color=chocolate]copper[/color]
+─────────────────────────────────────────  
+➤[bold]Recovery Compensation:[/bold]  
+Retriever’s Name: 
+Payment Due to Retriever: up to 2 [color=silver]silver[/color]  
+─────────────────────────────────────────  
+➤[italic]Clause of Obligation[/italic]  
+The resurrected adventurer is expected to repay the Guild in full. Failure to do so may result in withheld rewards or suspension of membership and possible local guards involvement.
+─────────────────────────────────────────  
+➤[bold]Declaration:[/bold]  
+I, the undersigned, acknowledge my resurrection under Guild supervision and hereby accept responsibility for reimbursing the stated amount. I also confirm the agreed compensation has been or will be delivered to my retriever.  
+Adventurer’s Signature:
+Guild Clerk’s Signature:
